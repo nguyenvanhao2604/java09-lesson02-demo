@@ -1,3 +1,7 @@
-private int sum(int a, int b){
-   return a+b;
+private long sum(int a, int b){
+     if(a+b>Interger.MAX_VALUE){
+        log.info("Sum of a & b over int value);
+        return Integer.MAX_VALUE;
+    }
+     return a+b;
 }
