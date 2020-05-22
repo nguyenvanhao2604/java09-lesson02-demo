@@ -1,1 +1,1 @@
-VERSION: todo-app-2.1-SNAPSHOP
+VERSION: todo-app-2.1
