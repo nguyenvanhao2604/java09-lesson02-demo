@@ -1,1 +1,1 @@
-VERSION: todo-app-3.0-SNAPSHOT
+VERSION: todo-app-3.0
